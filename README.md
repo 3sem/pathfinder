@@ -1,5 +1,5 @@
 # pathfinder
-CFL-R-based software analysis tool
+CFL-R-based software analysis tool (2021-2023, now is absolete)
 
 ## Reference:
 If you use Pathfinder, please, cite this article:
